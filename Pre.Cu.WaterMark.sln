@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pre.Cu.WaterMark.Cons", "Pre.Cu.WaterMark.Cons\Pre.Cu.WaterMark.Cons.csproj", "{7BB4E282-7FEB-4511-872A-E5B2BC7FA4AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pre.Cu.WaterMark.Core", "Pre.Cu.WaterMark.Core\Pre.Cu.WaterMark.Core.csproj", "{DCDADBFC-7650-43AE-8BAC-6B0AE25879F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB4E282-7FEB-4511-872A-E5B2BC7FA4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB4E282-7FEB-4511-872A-E5B2BC7FA4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB4E282-7FEB-4511-872A-E5B2BC7FA4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB4E282-7FEB-4511-872A-E5B2BC7FA4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDADBFC-7650-43AE-8BAC-6B0AE25879F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDADBFC-7650-43AE-8BAC-6B0AE25879F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDADBFC-7650-43AE-8BAC-6B0AE25879F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDADBFC-7650-43AE-8BAC-6B0AE25879F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
